@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-decoration: underline;
+    color: blueviolet;
+    font-size:600%;
+}
+img{
+    margin-left: 3%;
+    width: 40%;
+    height: 40%;
+}
